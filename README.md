@@ -1,3 +1,3 @@
 # Reto2
-Javier Rodriguez \n
+Javier Rodriguez
 Juan Diego Calderon
